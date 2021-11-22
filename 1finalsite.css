@@ -1,0 +1,55 @@
+body {
+  background-image: url("cherriesthree.jpg") ;
+}
+
+h1 {
+    color: black;
+  text-align: center;
+  background-color: ghostwhite;
+  font-size: 75px;
+  font-style: !important;
+  border-width: 10px;
+  border-color: ghostwhite;
+}
+
+#para1 {
+    margin: 10px;
+    font-family: verdana;
+  font-size: 20px;
+  color: black;
+  text-align: center;
+  background-color: ghostwhite;
+  border-style: dashed;
+  padding-left: 10px;
+}
+#para2 {
+    margin: 10px;
+    font-family: verdana;
+  font-size: 10px;
+  color: black;
+  text-align: left;
+  background-color: ghostwhite;
+  border-style: solid;
+  padding-right: 70px;
+  padding-left: 70px;
+}
+#para3 {
+    font-family: verdana;
+  font-size: 10px;
+  color: black;
+  text-align: justify;
+  background-color: ghostwhite;
+  border-style: dashed;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+#para4 {
+    font-family: verdana;
+  font-size: 10px;
+  color: black;
+  text-align: justify;
+  background-color: ghostwhite;
+  border-style: dashed;
+  padding: 10px;
+}
+
