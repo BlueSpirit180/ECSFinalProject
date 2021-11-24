@@ -1,12 +1,10 @@
-body {
-  background-image: url("cherriesthree.jpg") ;
-}
+
 
 h1 {
     color: black;
   text-align: center;
   background-color: ghostwhite;
-  font-size: 75px;
+  font-size: 70px;
   font-style: !important;
   border-width: 10px;
   border-color: ghostwhite;
@@ -15,7 +13,7 @@ h1 {
 #para1 {
     margin: 10px;
     font-family: verdana;
-  font-size: 20px;
+  font-size: 25px;
   color: black;
   text-align: center;
   background-color: ghostwhite;
@@ -23,9 +21,9 @@ h1 {
   padding-left: 10px;
 }
 #para2 {
-    margin: 10px;
+    margin: 30px;
     font-family: verdana;
-  font-size: 10px;
+  font-size: 15px;
   color: black;
   text-align: left;
   background-color: ghostwhite;
@@ -35,7 +33,7 @@ h1 {
 }
 #para3 {
     font-family: verdana;
-  font-size: 10px;
+  font-size: 30px;
   color: black;
   text-align: justify;
   background-color: ghostwhite;
@@ -45,7 +43,7 @@ h1 {
 }
 #para4 {
     font-family: verdana;
-  font-size: 10px;
+  font-size: 30px;
   color: black;
   text-align: justify;
   background-color: ghostwhite;
